@@ -12,7 +12,7 @@ This Python script automates the process of buying and selling Dogecoin (DOGE) u
 ## Prerequisites
 
 - Python 3.8 or higher
-- Robinhood API credentials (API Key and Private Key)
+- Robinhood API credentials (API Key and Private Key). Must be inserted into .config
 
 ## Installation
 
